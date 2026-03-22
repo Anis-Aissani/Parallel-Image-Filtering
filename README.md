@@ -16,7 +16,7 @@ This project implements a high-performance **Producer-Consumer** system for para
 
 Here is an example of an image processed by the system using the **Negative** filter (Filter ID `2`).
 
-![Negative Filter Example](./output_20537.bmp)
+![Negative Filter Example](./data/output_20537.bmp)
 
 ## Dependencies
 ```bash
