@@ -1,0 +1,17 @@
+# Compiled Object files
+obj/
+*.o
+*.out
+
+# Executables (The actual compiled programs)
+client
+server
+
+# IDEs
+.vscode/
+
+# OS specific
+.DS_Store
+
+# Large data/images (if they are just for testing)
+# data/
